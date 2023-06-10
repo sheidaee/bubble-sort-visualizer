@@ -1,0 +1,22 @@
+{
+  "name": "bubble-sort-visualizer",
+  "version": "1.0.0",
+  "description": "Bubble Sort Visualizer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheidaee/bubble-sort-visualizer.git"
+  },
+  "keywords": [
+    "bubble",
+    "sort",
+    "algorithm",
+    "visualizer"
+  ],
+  "author": "Shahin Sheidaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheidaee/bubble-sort-visualizer/issues"
+  },
+  "homepage": "https://github.com/sheidaee/bubble-sort-visualizer#readme"
+}
